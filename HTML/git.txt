@@ -1,0 +1,13 @@
+first line:- (git init) = this line is for Git ko start / initialize karna current folder me.
+
+
+second line:- (git status) = this line is for command batata hai.
+
+
+third line:- (git add .) = this line is for command batata hai:current folder ki saari files ko staging area me add kar deta hai.(git add index.html) = this line is for command batata hai:current folder ki jis files ka naam likha hoga us ko staging area me add kar deta hai. 
+
+
+forth line:- (git commit -m "any text for refrence") = this line is for Ye command staged changes ko save (commit) karta hai.
+
+
+five line:- (git push origin main) = this line is for Ye command local computer ke commits ko GitHub (remote repo) par bhej deta hai.
